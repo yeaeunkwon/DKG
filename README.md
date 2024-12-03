@@ -5,7 +5,7 @@ This study introduces a novel approach to measuring interdisciplinarity using ke
 ![graph_search_strucutre](https://github.com/user-attachments/assets/ad0b978e-ab70-4b5d-afeb-71eb04a4b473)
 
 ## Paper
-
+[Link to the paper](https://drive.google.com/file/d/1j5_KMz7FzX34cq6pWMxg3Is4ZkmwKozH/view?usp=sharing)
 ## Dataset
 The title and abstract texts of papers from the OpenAlex data
 
