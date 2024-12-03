@@ -10,8 +10,8 @@ The title and abstract texts of papers from the OpenAlex data
 ## Code
 
 * building_graph.ipynb : Building a knowledge graph
-* en_only_df.csv :  the dataset used to build a knowledge graph -> too big to upload in github [link] (https://drive.google.com/file/d/1-m9difRJAStlffAPlRwpey0AkhluLC5K/view?usp=sharing))
-* en_inter_df.csv : the test dataset for the knowledge graph, and the score of this dataset is measured through the BFS algorithm. -> too big to upload in github [link] (https://drive.google.com/file/d/1ealcKmlhqZ8Eg1ClwFJvHATFN3vQKfES/view?usp=sharing))
+* en_only_df.csv :  the dataset used to build a knowledge graph -> too big to upload in github [link](https://drive.google.com/file/d/1-m9difRJAStlffAPlRwpey0AkhluLC5K/view?usp=sharing))
+* en_inter_df.csv : the test dataset for the knowledge graph, and the score of this dataset is measured through the BFS algorithm. -> too big to upload in github [link](https://drive.google.com/file/d/1ealcKmlhqZ8Eg1ClwFJvHATFN3vQKfES/view?usp=sharing))
 * data_process.py :  Data preprocessing to remove short texts and non-english texts
 * final_test_data.csv : The dataset to predict the classification and model confidence
 * final_train_df.csv :  The dataset used to fine-tune the SPECTER model
